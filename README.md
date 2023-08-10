@@ -7,10 +7,13 @@ This file has 334 rows and 33 features. In the features, this is demogrpahic and
 
 
 ![image](https://github.com/kassiedancer92/Machine_Learning/assets/133593433/bc43e567-bcf5-4f1b-91d8-ca411fab8a11)
+
 This image shows the correaltion of all the features in the dataset. There is a strong correaltion amoung grades and parents education. Pertaining to our target, there is the strongest coreelation between week day drinking, going out, and weekend drinking. There are smaller, positive, correlations between weekday drinking, age and travel time to school
 
 ![image](https://github.com/kassiedancer92/Machine_Learning/assets/133593433/d9beb0f6-8a04-4ca9-a803-cf684a758cc6)
+
 This graph shows that thought who go out the most, also partake in week day drinking the most. Those that go out moderatly, also drink moderatly. Most kids rarely go
+
 
 The model that would be best used for this data set would be the Regression Tree with PCA as it has the highest testing accuracy out of the regression trees tired. The R^2s of the random forrest models are low in the testing data even though they are higher in the training data, which shows an overfit model. 
 

@@ -1,6 +1,6 @@
 # Machine_Learning
 
-This data set is looking at the demographics of weekday, undersaged drinkers, to try to predict risk factors. 
+This data set is looking at the demographics of weekday, underaged drinkers, to try to predict risk factors. 
 This data is sourced from Kaggle: https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?select=student-mat.csv
 
 This file has 334 rows and 33 features. In the features, this is demogrpahic and education infromation about the survey taker, along with information about their parents educational and professonal carrier. 

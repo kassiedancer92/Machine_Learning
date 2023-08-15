@@ -14,7 +14,7 @@ This image shows the correaltion of all the features in the dataset. There is a 
 
 This graph shows that thought who go out the most, also partake in week day drinking the most. Those that go out moderatly, also drink moderatly. Most kids rarely go
 
-![image](https://github.com/kassiedancer92/Underage_Drinking-/assets/133593433/42d81e1a-4252-4cab-b918-28140a37c766)
+<img width="373" alt="PNG image" src="https://github.com/kassiedancer92/Underage_Drinking-/assets/133593433/dcd913f2-84e8-4c04-b332-3aa68929a76e">
 
 The largest group is 16 and 17 year olds who rarely drink during the week. However, those that drink the most during the week are also 16 and 17 year olds.
 

@@ -18,7 +18,7 @@ This graph shows that thought who go out the most, also partake in week day drin
 
 The largest group is 16 and 17 year olds who rarely drink during the week. However, those that drink the most during the week are also 16 and 17 year olds.
 
-The model that would be best used for this data set would be the Regression Tree with PCA as it has the highest testing accuracy out of the regression trees tired. The R^2s of the random forrest models are low in the testing data even though they are higher in the training data, which shows an overfit model. 
+The model that would be best used for this data set would be the Regression Tree with PCA as it has the highest testing accuracy (.78) out of the regression trees tired. The R^2 of the random forrest models are low in the testing data even though they are higher in the training data, which shows an overfit model. 
 
 This model this fairly solve the business problem.
 
